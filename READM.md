@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Rohan.
 
 <!--
 **RohanSreelesh/RohanSreelesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
