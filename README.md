@@ -3,7 +3,7 @@
   
   🎓 **Studying**: I'm a 3rd-year Bachelor of Computer Science student at Carleton University.<br>
   
-  💼 **Working**: Currently at TeleAI, exploring the intricacies of technology.<br>
+  💼 **Working**: Currently at Ross Video, exploring the intricacies of technology.<br>
   
   🌐 **Interests**: I'm currently delving into Machine Learning and AI. Additionally, I'm working on a project that's a simulation based on pathfinding algorithms.<br>
   
