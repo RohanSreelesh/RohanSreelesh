@@ -5,7 +5,7 @@
   
   💼 **Working**: Currently at Ross Video, exploring the intricacies of technology.<br>
   
-  🌐 **Interests**: I'm currently delving into Machine Learning and AI. Additionally, I'm working on a project that's a simulation based on pathfinding algorithms.<br>
+  🌐 **Interests**: I'm currently delving into Machine Learning and AI.<br>
   
   🖥 **Portfolio**: Check out my work and projects on my [Website](https://rohantech.dev/)!.<br>
   
