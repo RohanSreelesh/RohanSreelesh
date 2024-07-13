@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rohan.
 <p align="center">
   
-  🎓 **Studying**: I'm a 3rd-year Bachelor of Computer Science student at Carleton University.<br>
+  🎓 **Studying**: I'm a 4th-year Bachelor of Computer Science student at Carleton University.<br>
   
   💼 **Working**: Currently @STERIS <br>
   
