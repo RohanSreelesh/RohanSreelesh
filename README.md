@@ -3,7 +3,7 @@
   
   🎓 **Studying**: I'm a 4th-year Bachelor of Computer Science student at Carleton University.<br>
   
-  💼 **Working**: Currently @STERIS <br>
+  💼 **Working**: Currently @Solace <br>
   
   🌐 **Interests**: I'm currently delving into Machine Learning and AI.<br>
   
