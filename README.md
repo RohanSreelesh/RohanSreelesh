@@ -5,8 +5,6 @@
   
   💼 **Working**: Currently @Solace <br>
   
-  🌐 **Interests**: I'm currently delving into Machine Learning and AI.<br>
-  
   🖥 **Portfolio**: Check out my work and projects on my [Website](https://rohantech.dev/)!.<br>
   
   🔗 **Connect**: Let's get connected! Find me on [LinkedIn](https://www.linkedin.com/in/rohansree/)!<br>
